@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    height: 500vh;
+    background-color: hotpink;
+}
+
+
+.container{
+    text-align: center;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+    background-color: green;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: left;
+    line-height: 1.5rem;
+    color: white;
+}
+
+.indent{
+    color: goldenrod;
+    border-left: 4px solid goldenrod;
+    margin: 10px 0;
+}
+
+li{
+    list-style-type: none;
+}
+
