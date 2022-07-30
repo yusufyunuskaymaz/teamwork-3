@@ -4,12 +4,18 @@
 
 body{
     height: 500vh;
-    background-color: hotpink;
+    background-color: rgb(243, 233, 255);
 }
 
 
 .container{
     text-align: center;
+}
+
+h1{
+    color: rgb(69, 51, 122)
+
+    ;
 }
 
 main{
@@ -21,6 +27,7 @@ main{
     text-align: left;
     line-height: 1.5rem;
     color: white;
+    background-color: rgb(119, 74, 216);
 }
 
 .indent{
@@ -33,3 +40,9 @@ li{
     list-style-type: none;
 }
 
+a{
+    text-decoration: none;
+    background-color: #E0A800;
+    padding: 15px;
+    border-radius: 5px;
+}
